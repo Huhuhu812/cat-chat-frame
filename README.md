@@ -1,4 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This wireframe was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+It uses React Chat UI Kit from LiveChatInc with Documentation at https://developers.livechatinc.com/docs/react-chat-ui-kit/
+
+Here are some notes from React
 
 ## Available Scripts
 
